@@ -1,0 +1,70 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.banner{
+    width:100%;
+}
+.nm{
+    color: darkred;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.name{
+    color: brown;
+    font-size:40px;
+    font-family: sans-serif;
+}
+.n{
+    color:darkblue;
+    font-size: 40px;
+}
+.p{
+ font-size:30px;
+}
+.register{
+    text-decoration: none;
+}
+#web{
+    background-color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.h{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#reg{
+    background-color:antiquewhite;
+}
+.about1{
+    background-color:antiquewhite;
+    text-decoration: none;
+
+}
+.nav a{
+    text-decoration: none;
+    font-weight:bold;
+    font-size: 20px;
+    color: #222;
+    transition: color 0.3s;
+}
+.nav{
+    display: flex;
+    gap:20px;
+    background: color #deb887;;
+    padding: 15px 10px;
+    justify-content: center;
+    list-style: none;
+    
+}
+.p1{
+    font-size: 30px;
+}
+.h1{
+    font-size:40px ;
+}
+.nav a:hover {
+    color: darkred;
+}
